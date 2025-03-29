@@ -1,2 +1,2 @@
 # ubuntu-kernel-dev-image
-A ubuntu container image with all of the build requirements for the linux kernel.
+A ubuntu container based build environment for the linux kernel.
