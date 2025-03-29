@@ -4,7 +4,6 @@
     "config:best-practices"
   ],
   "digest": {
-    "automerge": true,
-    "automergeType": "branch"
+    "automerge": true
   }
 }
