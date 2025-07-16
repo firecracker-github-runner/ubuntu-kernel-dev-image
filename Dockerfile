@@ -1,4 +1,4 @@
-FROM ubuntu:noble@sha256:89ef6e43e57cb94a23e4b28715a34444de91f45bd410fce3ce00819f86940a9c
+FROM ubuntu:noble@sha256:a328b84b92f71a85f459722a1c73c0363f9f8e3f66bf74a204bb35c605cf670c
 
 RUN apt update \
   && apt install -y \
